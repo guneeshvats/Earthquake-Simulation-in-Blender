@@ -12,7 +12,8 @@ This project was created in `Blender 3d 2.79`
 3. Height Design
 4. Material 
 
-You can run these belnder fil
+You can run these belnder files only in the Blender 2.79 version. 
+
 ## Constants 
 
 1. Standard column dimensions :  `1 x 1 x 4`
@@ -33,3 +34,5 @@ You can run these belnder fil
 ```
 
 ***There is a link at the end of the Report which contains all the videos of the simulations we created.*** 
+![image](https://github.com/user-attachments/assets/64594997-f31a-44f1-a259-d34aa1f5d8be)
+
