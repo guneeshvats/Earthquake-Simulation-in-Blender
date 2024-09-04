@@ -18,4 +18,17 @@ You can run these belnder fil
 1. Standard column dimensions :  `1 x 1 x 4`
 2. standard ceiling dimensions : `H x W (as required)` : `Thickness 0.5`
 
+
+## Repository Structure 
+  .
+  ├── Simulation Clips/
+  │   ├── Column Density/
+  │   ├── Floor Plan/
+  │   ├── Height Design/
+  │   └── Material/
+  ├── Report/
+  │   └── report.pdf
+  └── Blender Files/
+      └── (all the blender files)
+
 ***There is a link at the end of the Report which contains all the videos of the simulations we created.*** 
