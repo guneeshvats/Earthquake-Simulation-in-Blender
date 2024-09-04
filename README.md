@@ -1,2 +1,2 @@
-# Earthquake-Simulation-in-Blender
-Earthquake Simulation using Blender. This is a project for the course - Disaster Management. We have taken various cases of multi-storey buildings and simulated an original scenario with tuning the hyper-parameters on blender. 
+# Simulating-Earthquake-Exploring-Building-Vulnerabilities-using-Blender
+Earthquake Simulation using `Blender`. This repo is a project for the course - Disaster Management - spring '24. We have taken various cases of multi-storey buildings and simulated a real world scenario with tuning the hyper-parameters on blender and constructing various typologies and structure of buildings to see what is the impact of a progressive earthquake on these concrete material buildings. 
