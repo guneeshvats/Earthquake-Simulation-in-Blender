@@ -20,15 +20,15 @@ You can run these belnder fil
 
 
 ## Repository Structure 
-.
-├── Simulation Clips/
-│   ├── Column Density/
-│   ├── Floor Plan/
-│   ├── Height Design/
-│   └── Material/
-├── Report/
+
+├── Simulation Clips
+│   ├── Column Density
+│   ├── Floor Plan
+│   ├── Height Design
+│   └── Material
+├── Report
 │   └── report.pdf
-└── Blender Files/
+└── Blender Files
     └── (all the blender files)
 
 
