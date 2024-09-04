@@ -20,7 +20,7 @@ You can run these belnder fil
 
 
 ## Repository Structure 
-
+```
 ├── Simulation Clips
 │   ├── Column Density
 │   ├── Floor Plan
@@ -30,6 +30,6 @@ You can run these belnder fil
 │   └── report.pdf
 └── Blender Files
     └── (all the blender files)
-
+```
 
 ***There is a link at the end of the Report which contains all the videos of the simulations we created.*** 
