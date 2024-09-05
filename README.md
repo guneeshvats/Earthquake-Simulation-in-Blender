@@ -14,7 +14,7 @@ This project was created in `Blender 3d 2.79`
 
 You can run these belnder files only in the Blender 2.79 version. 
 
-## Constants 
+## Constants/Assumptions
 
 1. Standard column dimensions :  `1 x 1 x 4`
 2. standard ceiling dimensions : `H x W (as required)` : `Thickness 0.5`
